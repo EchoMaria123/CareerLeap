@@ -1,0 +1,83 @@
+[
+    {
+        "image": "https://cdn.discordapp.com/attachments/1038863953540939846/1038973796398411857/3.png",
+        "email": "davidbanker@gmail.com",
+        "linkedin": "https://www.linkedin.com/school/universityofbc/?originalSubdomain=ca",
+        "name": "David Banker",
+        "location": "Toronto, Ontario",
+        "job": "Machinist at Stark Industries",
+        "tags": ["With disability", "Mechanical Trades"]
+    },
+    {
+        "image": "https://cdn.discordapp.com/attachments/1038863953540939846/1038973797056925818/4.png",
+        "email": "roydenlaunay@gmail.com",
+        "linkedin": "https://www.linkedin.com/school/universityofbc/?originalSubdomain=ca",
+        "name": "Royden Launay",
+        "location": "Vancouver, British Columbia",
+        "job": "Machinist at Stark Industries",
+        "tags": ["Without disability", "Mechanical Trades"]
+    },
+    {
+        "image": "https://cdn.discordapp.com/attachments/1038863953540939846/1038973797937709116/6.png",
+        "email": "proserpio@gmail.com",
+        "linkedin": "https://www.linkedin.com/school/universityofbc/?originalSubdomain=ca",
+        "name": "Proserpio Bianchi",
+        "location": "Surrey, British Columbia",
+        "job": "Ironworker at Whitemud Ironworks Limited",
+        "tags": ["With disability", "Industrial Trades"]
+    },
+    {
+        "image": "https://cdn.discordapp.com/attachments/1038863953540939846/1038973796398411857/3.png",
+        "email": "claudia@gmail.com",
+        "linkedin": "https://www.linkedin.com/school/universityofbc/?originalSubdomain=ca",
+        "name": "Claudia Iadanza",
+        "location": "Victoria, British Columbia",
+        "job": "Auto mechanic at Echo’s Towing Ltd.",
+        "tags": ["Without disability", "Mechanical Trades"]
+    },
+    {
+        "image": "https://cdn.discordapp.com/attachments/1038863953540939846/1038973798306828348/7.png",
+        "email": "caitlin@gmail.com",
+        "linkedin": "https://www.linkedin.com/school/universityofbc/?originalSubdomain=ca",
+        "name": "Caitlin Williamson",
+        "location": "Vancouver British Columbia",
+        "job": "Respiratory Therapist at Vancouver General Hospital",
+        "tags": ["With disability", "Medical Trades"]
+    },
+        {
+        "image": "https://cdn.discordapp.com/attachments/1038863953540939846/1038973797577011210/5.png",
+        "email": "jamie@gmail.com",
+        "linkedin": "https://www.linkedin.com/school/universityofbc/?originalSubdomain=ca",
+        "name": "Jamie Craig",
+        "location": "Vancouver, British Columbia",
+        "job": "Landscaper at Jerry Landscaping",
+        "tags": ["With disability", "Building Trades"]
+    },
+        {
+        "image": "https://www.shareicon.net/data/512x512/2016/05/24/770126_man_512x512.png",
+        "email": "guerrino@gmail.com",
+        "linkedin": "https://www.linkedin.com/school/universityofbc/?originalSubdomain=ca",
+        "name": "Guerrino Calabresi",
+        "location": "Vancouver, British Columbia",
+        "job": "Plumber at Nugget Plumbing Ltd.",
+        "tags": ["Without disability", "Building Trades"]
+    },
+        {
+        "image": "https://cdn.discordapp.com/attachments/1038863953540939846/1038973797577011210/5.png",
+        "email": "caleb@gmail.com",
+        "linkedin": "https://www.linkedin.com/school/universityofbc/?originalSubdomain=ca",
+        "name": "Caleb Clifton",
+        "location": "Vancouver, British Columbia",
+        "job": "Metal fabricator at The City of Vancouver",
+        "tags": ["Without disability", "Industrial Trades"]
+    },
+        {
+        "image": "https://cdn.discordapp.com/attachments/1038863953540939846/1038973797937709116/6.png",
+        "email": "lily@gmail.com",
+        "linkedin": "https://www.linkedin.com/school/universityofbc/?originalSubdomain=ca",
+        "name": "Lily Willason",
+        "location": "Richmond, British Columbia",
+        "job": "Software developer",
+        "tags": ["Without disability", "Mechanical Trades"]
+    }
+]
